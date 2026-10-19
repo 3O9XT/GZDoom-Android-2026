@@ -2,7 +2,7 @@
 
 <img src="icon.png" width="200" hspace="10" vspace="10"></br>
 
-*A fully open-source Doom game for modern Android — Freedoom assets + the GZDoom/UZDoom engine, with an in-app map editor and an idgames WAD browser.*
+*A fully open-source Doom game for modern Android — Freedoom assets + the GZDoom/UZDoom engine, with an in-app map editor and an idgames WAD browser .*
 
 [![Platform](https://img.shields.io/badge/platform-Android-3DDC84)](https://www.android.com/)
 [![SDK](https://img.shields.io/badge/minSdk%2023%20%C2%B7%20compileSdk%2036-555)](doom/build.gradle.kts)
